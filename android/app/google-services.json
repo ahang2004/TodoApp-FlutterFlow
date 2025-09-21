@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89628096609",
+    "project_id": "to-do-obupnh",
+    "storage_bucket": "to-do-obupnh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89628096609:android:0bee7e9e8817ae010c9220",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqBCrQwhTldXCvyovl6qikTppiXeO8DSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
